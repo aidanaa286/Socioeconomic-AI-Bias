@@ -42,6 +42,11 @@ Compared response length, complexity, and accuracy (rated by teacher).
 >Analyzed Data
 
 >Used T-tests for stats, readability scores, and expert reviews.
+## Project Insights
+>>
+>
+>
+
 ## Visualizations
 
 fsoon
